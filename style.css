@@ -15,12 +15,12 @@
 }
 
 .logo img{
-    margin-top: 30px;
+    margin-top: 19px;
     margin-left: 25px;
 }
 
 .logo_name{
-    margin-top: 45px;
+    margin-top: 34px;
     padding-left: 11px;
     font-size: 23px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -30,7 +30,7 @@
 /* Logo Setting ended */
 
 .left{
-    margin: 22px 0px 0px 10px;
+    margin: 11px 0px 0px 10px;
     padding: 24px 0px 0px 390px;
     text-decoration: none;
 }
